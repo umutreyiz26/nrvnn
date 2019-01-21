@@ -1,0 +1,32 @@
+{
+  "name": "müzikbotu",
+  "version": "0.2.6",
+  "description": "müzik botu",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Barış Demirci",
+  "license": "MIT",
+  "dependencies": {
+    "after": "^0.8.2",
+    "argument": "0.0.2",
+    "chalk": "^2.4.2",
+    "chance": "^1.0.18",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "ffmpeg-binaries": "^4.0.0",
+    "generate-password": "^1.4.1",
+    "jimp": "^0.6.0",
+    "list": "^2.0.16",
+    "math-expression-evaluator": "^1.2.17",
+    "moment": "^2.23.0",
+    "ms": "^2.1.1",
+    "npm": "^6.6.0",
+    "opusscript": "0.0.6",
+    "simple-youtube-api": "^5.1.1",
+    "ytdl-core": "^0.29.1"
+  }
+}
